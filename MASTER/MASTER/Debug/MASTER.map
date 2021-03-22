@@ -436,16 +436,16 @@ END GROUP
  .debug_frame   0x000000a8       0x44 SPI/Src/SPI.o
  .debug_frame   0x000000ec       0x44 UART/Src/UART.o
 
-.debug_str      0x00000000      0x54f
+.debug_str      0x00000000      0x58d
  *(.debug_str)
  .debug_str     0x00000000      0x196 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega32/avr5/crtatmega32.o
  .debug_str     0x00000196      0x1a0 App/main.o
                                 0x1d4 (size before relaxing)
- .debug_str     0x00000336      0x18d Dio/Src/Dio.o
+ .debug_str     0x00000336      0x1cb Dio/Src/Dio.o
                                 0x2da (size before relaxing)
- .debug_str     0x000004c3       0x45 SPI/Src/SPI.o
+ .debug_str     0x00000501       0x45 SPI/Src/SPI.o
                                 0x244 (size before relaxing)
- .debug_str     0x00000508       0x47 UART/Src/UART.o
+ .debug_str     0x00000546       0x47 UART/Src/UART.o
                                 0x23a (size before relaxing)
 
 .debug_loc      0x00000000      0x69e

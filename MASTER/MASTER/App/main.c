@@ -8,13 +8,12 @@
 #define F_CPU 16000000
 #include <avr/io.h>
 #include <avr/delay.h>
+#include "Std_Types.h"
 #include "UART.h"
 #include "SPI.h"
-#include "Lcd.h"
 
 int main(void)
 {
-	//Lcd_Init();
 	UART_Init();
 	SPI_Init(MASTER);
 	

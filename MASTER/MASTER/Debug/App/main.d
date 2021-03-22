@@ -14,12 +14,9 @@ App/main.d App/main.o: ../App/main.c \
  c:\program\ files\ (x86)\atmel\studio\7.0\toolchain\avr8\avr8-gnu-toolchain\avr\include\util\delay.h \
  c:\program\ files\ (x86)\atmel\studio\7.0\toolchain\avr8\avr8-gnu-toolchain\avr\include\util\delay_basic.h \
  c:\program\ files\ (x86)\atmel\studio\7.0\toolchain\avr8\avr8-gnu-toolchain\avr\include\math.h \
- ../UART/Inc/UART.h ../UART/Inc/UART_Private.h ../LIB/Bit_Math.h \
- ../LIB/Std_Types.h ../SPI/Inc/SPI.h ../SPI/Inc/SPI_Cfg.h \
- ../SPI/Inc/SPI_Private.h \
- ../../../AVR_Interfacing/AVR_Interfacing/02-Source/02-HAL/LCD/Inc/Lcd.h \
- ../../../AVR_Interfacing/AVR_Interfacing/02-Source/02-HAL/LCD/Inc/Lcd_Cfg.h \
- ../Dio/Inc/Dio.h ../Dio/Inc/Dio_Private.h
+ ../LIB/Std_Types.h ../UART/Inc/UART.h ../UART/Inc/UART_Private.h \
+ ../LIB/Bit_Math.h ../SPI/Inc/SPI.h ../SPI/Inc/SPI_Cfg.h \
+ ../SPI/Inc/SPI_Private.h
 
 c:\program\ files\ (x86)\atmel\studio\7.0\toolchain\avr8\avr8-gnu-toolchain\avr\include\avr\io.h:
 
@@ -51,24 +48,16 @@ c:\program\ files\ (x86)\atmel\studio\7.0\toolchain\avr8\avr8-gnu-toolchain\avr\
 
 c:\program\ files\ (x86)\atmel\studio\7.0\toolchain\avr8\avr8-gnu-toolchain\avr\include\math.h:
 
+../LIB/Std_Types.h:
+
 ../UART/Inc/UART.h:
 
 ../UART/Inc/UART_Private.h:
 
 ../LIB/Bit_Math.h:
 
-../LIB/Std_Types.h:
-
 ../SPI/Inc/SPI.h:
 
 ../SPI/Inc/SPI_Cfg.h:
 
 ../SPI/Inc/SPI_Private.h:
-
-../../../AVR_Interfacing/AVR_Interfacing/02-Source/02-HAL/LCD/Inc/Lcd.h:
-
-../../../AVR_Interfacing/AVR_Interfacing/02-Source/02-HAL/LCD/Inc/Lcd_Cfg.h:
-
-../Dio/Inc/Dio.h:
-
-../Dio/Inc/Dio_Private.h:
